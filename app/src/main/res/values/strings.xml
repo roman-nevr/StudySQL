@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudySQL</string>
+    <string name="examples">select name from table where all order by _id desc \n
+        insert into table (name, album) values (\'song\', \'album\'); \n
+        update table set name=newName, album=newAlbum where name like %la% \n
+        delete from songs where ... \n
+        where
+    </string>
+</resources>
